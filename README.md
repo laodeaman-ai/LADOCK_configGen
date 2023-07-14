@@ -30,8 +30,7 @@ Cara menggunakan paket ini:
    - Selain itu, informasi penulis juga akan ditampilkan di output konsol.
 
 Pastikan Anda telah memahami dan mengikuti langkah-langkah di atas dengan benar untuk menggunakan script tersebut secara efektif. Jika Anda menghadapi masalah atau memiliki pertanyaan tambahan, jangan ragu untuk menghubungi penulis:
-La Ode Aman
-laodeaman.ai@gmail.com
-laode_aman@ung.ac.id
-Universitas Negeri Gorontalo, Indonesia
- P
+   La Ode Aman
+   laodeaman.ai@gmail.com
+   laode_aman@ung.ac.id
+   Universitas Negeri Gorontalo, Indonesia
