@@ -1,12 +1,12 @@
 # LADOCK_configGen
-Script untuk generate file config banyak PDB untuk simulasi autodock-vina.
+Script untuk generate file config banyak ligan alami dari PDB ID untuk simulasi autodock-vina.
 
 Cara menggunakan paket ini:
 
 1. Persiapan:
    - Pastikan Anda memiliki Python terinstal di sistem Anda. Jika belum, instal Python terlebih dahulu.
    - Pastikan Anda telah menginstal Biopython, modul yang digunakan dalam script ini. Jika belum, Anda dapat menginstalnya menggunakan pip dengan menjalankan perintah `pip install biopython`.
-   - Pastikan file-file PDB yang ingin Anda proses berada dalam direktori kerja yang sama dengan script Python ini.
+   - Pastikan file-file PDB dari ligan alami yang ingin Anda proses berada dalam direktori kerja yang sama dengan script Python ini.
 
 2. Modifikasi script:
    - Anda dapat membuka script Python di editor teks atau lingkungan pengembangan Python.
