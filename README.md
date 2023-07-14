@@ -1,4 +1,4 @@
-# LADOCK_configGen.py
+# LADOCK_configGen
 Script untuk generate file config banyak PDB untuk simulasi autodock-vina.
 
 Cara menggunakan paket ini:
