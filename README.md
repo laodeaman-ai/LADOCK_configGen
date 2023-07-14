@@ -1,5 +1,5 @@
 # LADOCK_configGen
-Script untuk generate file config banyak ligan alami dari PDB ID untuk simulasi autodock-vina.
+Script untuk generate file config banyak ligan alami dari berbagai PDB ID untuk simulasi autodock-vina.
 
 Cara menggunakan paket ini:
 
